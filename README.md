@@ -11,15 +11,15 @@
 ###
 
 <p align="left">
-✨ Creating bugs since I started programming in 2020<br>
-📚 I'm currently learning advanced JavaScript patterns and backend development<br>
-🎯 Goals: Become a full-stack developer and work on impactful real-world projects<br>
-🎲 Fun fact: I enjoy debugging almost as much as I enjoy building
+✨ Web developer with hands-on experience using Node.js (Express) and React<br>
+📚 Currently completing a Python certification to move into data analysis<br>
+🎯 Goal: Become a well-rounded Systems Engineer capable of solving any challenge<br>
+🧠 I love learning new technologies, especially when I don’t know something yet<br>
+📰 Always staying up-to-date with the latest programming trends and tools
 </p>
 
-###
 
-<h2 align="left">Certifications</h2>
+###
 
 ###
 
