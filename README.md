@@ -76,13 +76,3 @@
 
 ###
 </div>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YeiversonYurgaky&theme=github-compact" alt="GitHub Contribution Graph"/>
-</p>
