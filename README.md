@@ -1,29 +1,66 @@
-### 👋 Hi there, I'm YeiversonYurgaky!
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I'm a Systems Engineering student passionate about using technology to improve everyday life. I enjoy learning continuously, solving problems, and building meaningful solutions.
+###
 
----
+<p align="left">My name is Yeiverson Yurgaky and I'm a Systems Engineering student from Colombia, passionate about using tech to improve everyday life.</p>
 
-### 🎓 Certifications
-- ✅ Google IT Support Professional Certificate
-- ✅ Python for Everybody – University of Michigan
-- ✅ Responsive Web Design – freeCodeCamp
+###
 
----
+<h2 align="left">About me</h2>
 
-### 🛠️ Tech Stack
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+###
 
----
+<p align="left">
+✨ Creating bugs since I started programming in 2020<br>
+📚 I'm currently learning advanced JavaScript patterns and backend development<br>
+🎯 Goals: Become a full-stack developer and work on impactful real-world projects<br>
+🎲 Fun fact: I enjoy debugging almost as much as I enjoy building
+</p>
 
-### 📈 GitHub Contributions
-[![YeiversonYurgaky's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YeiversonYurgaky&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
+<h2 align="left">Certifications</h2>
+
+###
+
+<ul align="left">
+  <li>✅ Google IT Support Professional Certificate</li>
+  <li>✅ Python for Everybody – University of Michigan</li>
+  <li>✅ Responsive Web Design – freeCodeCamp</li>
+</ul>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+</div>
+
+###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YeiversonYurgaky&theme=github-compact" alt="GitHub Contribution Graph"/>
+</p>
