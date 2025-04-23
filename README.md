@@ -22,11 +22,11 @@
 ###
 
 ###
+<h2 align="left">Certifications</h2>
 
 <ul align="left">
-  <li>✅ Google IT Support Professional Certificate</li>
-  <li>✅ Python for Everybody – University of Michigan</li>
-  <li>✅ Responsive Web Design – freeCodeCamp</li>
+  <li>✅ Java Programming Diploma – Politécnico de Colombia</li>
+  <li>✅ Python for Data Science – Platzi</li>
 </ul>
 
 ###
